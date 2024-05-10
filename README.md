@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente estou estudando **SQL e Python**
 
-- 💬 Me pergunte sobre **SQL, Python e Excel.**
+- 💬 Me pergunte sobre **SQL, Python, Power BI e Excel.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
